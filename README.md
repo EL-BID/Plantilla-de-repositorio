@@ -1,4 +1,4 @@
-# Plantilla-de-repositorio
+# Código para el desarrollo
 
 Este es un repositorio que contiene los archivos modelo para que una herramienta digital pueda ser reutilizada.
 
