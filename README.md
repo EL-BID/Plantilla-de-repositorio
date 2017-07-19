@@ -1,3 +1,6 @@
+    Plantilla READEME.md para documentar Herramientas Digitales. ![CÓDIGO PARA EL DESARROLLO](http://www.code.iadb.org)
+
+
 # Código para el desarrollo <img src="https://cdn.rawgit.com/nteract/hydrogen/17eda245/static/animate-logo.svg" alt="hydrogen animated logo" height="50px" align="right" />
 ![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch)](https://github.com/EL-BID)
 [![slack in](https://slackin-nteract.now.sh/badge.svg)](http://code.iadb.org)
@@ -17,10 +20,7 @@ Los requisitos mínimos a nivel de documentación que necesita tu repositorio pa
   
 * LICENCE (puede estar incluido en el Readme.md)
 
-
-
-
-## README.md
+## Nombre
 ---
 
 Un archivo README contiene información sobre la herramienta digital. Es una forma de documentación de software y es por eso que  en la iniciativa de Código para el desarrollo solicitamos que el repositorio contenga un documento README.md, la extención del archivo deberá ser Markdown.
