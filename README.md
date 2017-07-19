@@ -21,18 +21,19 @@ Los requisitos mínimos a nivel de documentación que necesita tu repositorio pa
 
 
 ## README.md
+---
 
 Un archivo README contiene información sobre la herramienta digital. Es una forma de documentación de software y es por eso que  en la iniciativa de Código para el desarrollo solicitamos que el repositorio contenga un documento README.md, la extención del archivo deberá ser Markdown.
 El nombre del archivo es generalmente escrito en mayúsculas.
 
 Lineas abajo te describimos que contenido debes colocar en el README.md
 
-* Nombre y descripción
+### Nombre y descripción
 
 Esta primera sección del README.md se presenta la herramienta digital, el nombre con el que se le conoce acompañado de una breve descripción que oriente al que la lea sobre las funcionalidades y contexto de la herramienta.
 
  	
-* Guía de instalación
+### Guía de instalación
 
 Paso a paso de cómo instalar la herramienta digital y los requerimientos mínimos para hacer esto posible. Esta sección contempla las configuraciones necesarias para dejar preparado el ambiente de trabajo y las versiones mínimas en las que ha sido probado anteriormente la herramienta digital.
 
