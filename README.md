@@ -3,7 +3,7 @@
 
 * Una *[**wiki**](https://github.com/EL-BID/Codigo-para-el-desarrollo/wiki) con recomendaciones para documentar, evaluar y licenciar herramientas digitales.*
 
-## Plantilla para documentar herramientas digitales
+## Plantilla de Documentación de Soporte y Uso de herramientas digitales
 
 ### Nombre y descripción
 ---
