@@ -1,44 +1,26 @@
 *Plantilla README.md para documentar Herramientas Digitales. [CÓDIGO PARA EL DESARROLLO](http://www.code.iadb.org)*
 
 
-## Código para el desarrollo <img src="https://cdn.rawgit.com/nteract/hydrogen/17eda245/static/animate-logo.svg" alt="hydrogen animated logo" height="50px" align="right" />
+## Código para el desarrollo 
 
-
-Este es un repositorio que contiene los archivos modelo para que una herramienta digital pueda ser reutilizada.
-
-Los requisitos mínimos a nivel de documentación que necesita tu repositorio para ser subido en el github oficial de EL-BID son:
-
-* README.md
-  * Nombre y descripción
-  * Guía de instalación
-  * Guía de usuario
-  * Licencia
-  * Autores
-  
-* LICENCE (puede estar incluido en el Readme.md)
-
-Un archivo README contiene información sobre la herramienta digital. Es una forma de documentación de software y es por eso que  en la iniciativa de Código para el desarrollo solicitamos que el repositorio contenga un documento README.md, la extención del archivo deberá ser Markdown.
-El nombre del archivo es generalmente escrito en mayúsculas.
-
-Lineas abajo te describimos que contenido debes colocar en el README.md
+Este es un repositorio tiene dos propósitos: 
+* Servir de plantilla modelo de repositorio para otros desarrolladores.
+* Proponer recomendaciones sobre cómo documentar, evaluar y licenciar una herramienta digital. ([**ver wiki**](https://github.com/EL-BID/Codigo-para-el-desarrollo/wiki)
 
 ### Nombre y descripción
 ---
-Idealmente en el README.MD
+Esto es un archivo README. Debe contener la documentación de soporte uso de la herramienta digital. Las siguientes secciones son las secciones recomendadas que debes poner incluir en cualquier herramienta digital. Puedes descargar este archivo para que te sirva como plantilla.
 
-Esta primera sección del README.md se presenta la herramienta digital, el nombre con el que se le conoce acompañado de una breve descripción que oriente al que la lea sobre las funcionalidades y contexto de la herramienta.
-
+Asegúrate de empezar este archivo con una breve descripción sobre las funcionalidades y contexto de la herramienta digital. Sé conciso y al grano.
  	
 ### Guía de instalación
 ---
-Idealmente en el README.MD
-
-
-Paso a paso de cómo instalar la herramienta digital y los requerimientos mínimos para hacer esto posible. Esta sección contempla las configuraciones necesarias para dejar preparado el ambiente de trabajo y las versiones mínimas en las que ha sido probado anteriormente la herramienta digital.
+Paso a paso de cómo instalar la herramienta digital. En algunas ocasiones esto puede ser sencillo, pero en otras ocasiones es necesario instalar otras herramientas que tiene dependencia con la herramienta digital. Si este es el caso, añade también la siguiente sección.
 
 #### Dependencias
-Descripción de los recursos externos que generan una dependencia para la reutilización de la herramienta digital (librerías, frameworks, acceso a bases de datos y licencias de cada recurso)
+Descripción de los recursos externos que generan una dependencia para la reutilización de la herramienta digital (librerías, frameworks, acceso a bases de datos y licencias de cada recurso). Es una buena práctica describir las últimas versiones en las que ha sido probada la herramienta digital. 
 
+    Puedes usar este estilo de letra diferenciar los comandos de instalación. Este es un buen ejemplo de una descripción de dependencias.
 Ejemplo:
 En el repositorio de la herramienta digital Smartmap https://github.com/EL-BID/SmartMap esta sección luce así:
 
