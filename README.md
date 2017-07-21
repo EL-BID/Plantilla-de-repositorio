@@ -1,4 +1,4 @@
-*En este README.md encontrarás:
+*En este README.md encontrarás:*
 * *Plantilla de archivo README.md para documentar Herramientas Digitales.*
 
 * Una *[**wiki**](https://github.com/EL-BID/Codigo-para-el-desarrollo/wiki) con recomendaciones para documentar, evaluar y licenciar herramientas digitales.*
