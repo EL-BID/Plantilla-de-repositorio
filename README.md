@@ -36,6 +36,9 @@ Idealmente en el README.MD
 
 Paso a paso de cómo instalar la herramienta digital y los requerimientos mínimos para hacer esto posible. Esta sección contempla las configuraciones necesarias para dejar preparado el ambiente de trabajo y las versiones mínimas en las que ha sido probado anteriormente la herramienta digital.
 
+#### Dependencias
+Descripción de los recursos externos que generan una dependencia para la reutilización de la herramienta digital (librerías, frameworks, acceso a bases de datos y licencias de cada recurso)
+
 Ejemplo:
 En el repositorio de la herramienta digital Smartmap https://github.com/EL-BID/SmartMap esta sección luce así:
 
