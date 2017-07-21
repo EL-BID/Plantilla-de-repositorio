@@ -5,7 +5,7 @@
 
 Este es un repositorio tiene dos propósitos: 
 * Servir de plantilla modelo de repositorio para otros desarrolladores.
-* Proponer recomendaciones sobre cómo documentar, evaluar y licenciar una herramienta digital. ([**ver wiki**](https://github.com/EL-BID/Codigo-para-el-desarrollo/wiki)
+* Proponer recomendaciones a través de [**la wiki**](https://github.com/EL-BID/Codigo-para-el-desarrollo/wiki) sobre cómo documentar, evaluar y licenciar una herramienta digital. 
 
 ### Nombre y descripción
 ---
@@ -15,19 +15,13 @@ Asegúrate de empezar este archivo con una breve descripción sobre las funciona
  	
 ### Guía de instalación
 ---
-Paso a paso de cómo instalar la herramienta digital. En algunas ocasiones esto puede ser sencillo, pero en otras ocasiones es necesario instalar otras herramientas que tiene dependencia con la herramienta digital. Si este es el caso, añade también la siguiente sección.
+Paso a paso de cómo instalar la herramienta digital. Según el tipo de herramienta digital, el nivel de complejidad puede variar. En algunas ocasiones puede ser necesario instalar componentes que tienen dependencia con la herramienta digital. Si este es el caso, añade también la siguiente sección.
 
 #### Dependencias
 Descripción de los recursos externos que generan una dependencia para la reutilización de la herramienta digital (librerías, frameworks, acceso a bases de datos y licencias de cada recurso). Es una buena práctica describir las últimas versiones en las que ha sido probada la herramienta digital. 
 
-    Puedes usar este estilo de letra diferenciar los comandos de instalación. Este es un buen ejemplo de una descripción de dependencias.
-Ejemplo:
-En el repositorio de la herramienta digital Smartmap https://github.com/EL-BID/SmartMap esta sección luce así:
-
-    Cómo instalar
-
-    Navega hasta cd js/components/smartmap-ui:
-
+    Puedes usar este estilo de letra diferenciar los comandos de instalación. [Este](https://github.com/EL-BID/SmartMap) es un buen ejemplo de una descripción de dependencias.
+    *Ejemplo:*
     npm install
     grunt init --force (instala las depencias de Bower, se requiere parar el proceso para continuar, utiliza Ctrl +c. Se ejecuta el comando forzado por un bug que se debe resolver.)
     grunt build
