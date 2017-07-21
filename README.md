@@ -1,5 +1,6 @@
-*Plantilla README.md para documentar Herramientas Digitales. *
-*En la wiki de este repositorio encontrarás recomendaciones para documentar, evaluar y licenciar herramientas digitales.*
+* *Plantilla README.md para documentar Herramientas Digitales.*
+
+* *En la wiki de este repositorio encontrarás recomendaciones para documentar, evaluar y licenciar herramientas digitales.*
 
 ## Código para el desarrollo 
 
