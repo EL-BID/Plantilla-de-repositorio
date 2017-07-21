@@ -12,6 +12,10 @@ Este es un repositorio tiene dos propósitos:
 Esto es un archivo README. Debe contener la documentación de soporte uso de la herramienta digital. Las siguientes secciones son las secciones recomendadas que debes poner incluir en cualquier herramienta digital. Puedes descargar este archivo para que te sirva como plantilla.
 
 Asegúrate de empezar este archivo con una breve descripción sobre las funcionalidades y contexto de la herramienta digital. Sé conciso y al grano.
+
+### Guía de usuario
+---
+Explica los pasos básicos sobre cómo usar la herramienta digital. Es una buena sección para mostrar capturas de pantalla o gifs que ayuden a entender la herramienta digital.
  	
 ### Guía de instalación
 ---
@@ -20,46 +24,16 @@ Paso a paso de cómo instalar la herramienta digital. Según el tipo de herramie
 #### Dependencias
 Descripción de los recursos externos que generan una dependencia para la reutilización de la herramienta digital (librerías, frameworks, acceso a bases de datos y licencias de cada recurso). Es una buena práctica describir las últimas versiones en las que ha sido probada la herramienta digital. 
 
-    Puedes usar este estilo de letra diferenciar los comandos de instalación. [Este](https://github.com/EL-BID/SmartMap) es un buen ejemplo de una descripción de dependencias.
-    *Ejemplo:*
-    npm install
-    grunt init --force (instala las depencias de Bower, se requiere parar el proceso para continuar, utiliza Ctrl +c. Se ejecuta el comando forzado por un bug que se debe resolver.)
-    grunt build
-    Navega al directorio raiz de tu aplicación
+    Puedes usar este estilo de letra diferenciar los comandos de instalación.
 
-    npm install
-    grunt init --force (instala las depencias de Bower)
-    grunt build
-    Abre una nueva terminal y ejecuta Browser Sync para cargar un servidor HTTP
-
-    browser-sync start --server --files "css/*.css"
-    Voila !! Todo esta listo y corriendo.
-
-    Recuerda:
-
-    Cada vez que necesite reconstruir completamente el proyecto ejecuta grunt build en el directorio smartmap-ui y una vez completado ejecuta grunt build en la raíz de la aplicación.
-
-### Guía de usuario
----
-Idealmente en el README.MD
-
-
-Una vez instalada, explica los pasos básicos de cómo usar la herramienta digital. Es una buena sección para mostrar capturas de pantalla y atraer a que más usuarios se animen a reutilizarla.
-
-
+[Este](https://github.com/EL-BID/SmartMap) es un buen ejemplo de una descripción de dependencias.
 
 ### Cómo contribuir
 ---
-Idealmente en el README.MD
-
-
 Esta sección explica debe explicar a desarrolladores cuáles son las maneras habituales de enviar una solicitudes de adhesión de nuevo código (“pull requests”), cómo declarar fallos en la herramienta y qué guías de estilo se deben usar al escribir más líneas de código.
 
 ### Código de conducta 
 ---
-Idealmente en el README.MD
-
-
 El código de conducta establece las normas sociales, reglas y responsabilidades que los individuos y organizaciones deben seguir al interactuar de alguna manera con la herramienta digital o su comunidad. Es una buena práctica para crear un ambiente de respeto e inclusión en las contribuciones al proyecto. La plataforma Github premia y ayuda a los repositorios dispongan de este archivo. Al crear CODE_OF_CONDUCT.md puedes empezar desde una plantilla sugerida por ellos. 
 
 ### Autor/es
