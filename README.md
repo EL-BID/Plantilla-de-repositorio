@@ -3,11 +3,7 @@
 
 * Una *[**wiki**](https://github.com/EL-BID/Codigo-para-el-desarrollo/wiki) con recomendaciones para documentar, evaluar y licenciar herramientas digitales.*
 
-## Código para el desarrollo 
-
-Este es un repositorio tiene dos propósitos: 
-* Servir de plantilla modelo de repositorio para otros desarrolladores.
-* Proponer recomendaciones a través de [**la wiki**](https://github.com/EL-BID/Codigo-para-el-desarrollo/wiki) sobre cómo documentar, evaluar y licenciar una herramienta digital. 
+## Plantilla para documentar herramientas digitales
 
 ### Nombre y descripción
 ---
