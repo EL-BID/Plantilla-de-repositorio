@@ -1,3 +1,5 @@
+*Este es un ejemplo de Código de Conducta que se ha usado en más de 30.000 proyectos de código abierto. Es una adaptación del [Contributor Covenant][homepage], versión 1.4, disponible en [http://contributor-covenant.org/version/1/4/es/][version].*
+
 # Código de Conducta convenido para Contribuyentes
 
 ## Nuestro compromiso
