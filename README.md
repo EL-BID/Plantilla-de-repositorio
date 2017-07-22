@@ -31,7 +31,7 @@ Descripción de los recursos externos que generan una dependencia para la reutil
 
 ### Cómo contribuir
 ---
-Esta sección explica debe explicar a desarrolladores cuáles son las maneras habituales de enviar una solicitudes de adhesión de nuevo código (“pull requests”), cómo declarar fallos en la herramienta y qué guías de estilo se deben usar al escribir más líneas de código.
+Esta sección explica explica a desarrolladores cuáles son las maneras habituales de enviar una solicitud de adhesión de nuevo código (“pull requests”), cómo declarar fallos en la herramienta y qué guías de estilo se deben usar al escribir más líneas de código.
 
 ### Código de conducta 
 ---
@@ -39,17 +39,14 @@ El código de conducta establece las normas sociales, reglas y responsabilidades
 
 ### Autor/es
 ---
-Idealmente en el README.MD
-
+Nombra a el/los autor/es original/es. Consulta con ellos antes de publicar un email o un nombre personal. Una manera muy común es dirigirlos a sus cuentas de redes sociales.
 
 ### Información adicional
 ---
-Opcional en el README.MD
+Esta es la sección que permite agregar más información de contexto al proyecto como alguna web de relevancia, proyectos similares o que hayan usado la misma tecnología.
 
 ### Licencia 
 ---
-Idealmente en el README.MD
+La licencia especifica los permisos y las condiciones de uso que el desarrollador otorga a otros desarrolladores que usen y/o modifiquen la herramienta digital.
 
-Es un conjunto de permisos que un desarrollador le puede otorgar a un usuario en los que tiene la posibilidad de distribuir, usar y/o modificar el producto bajo una licencia determinada.
-
-Si tu herramienta digital no cuenta todavía con una licencia, te recomendamos que visites esta página https://choosealicense.com/.
+Si desconoces qué tipos de licencias existen y cuál es la mejor para cada caso, te recomendamos visitar la página https://choosealicense.com/.
