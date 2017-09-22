@@ -1,3 +1,4 @@
+Visita la [Guía de Publicación](el-bid.github.io/guia-de-publicacion/) para saber más sobre cómo publicar herramientas digitales.
 Para aprender más sobre la iniciativa de Código para el Desarrollo visita: www.code.iadb.org
 
 ## Plantilla de Documentación de Soporte y Uso de herramientas digitales
