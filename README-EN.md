@@ -31,22 +31,22 @@ Describe any external resources which create a dependency for the reuse of the d
 ---
 This section explains to developers the most useful ways to send “pull requests”, how to declare any bugs found in the tool, and which style guides should be followed when contributing new lines of code.
 
-### Código de conducta 
+### Code of Conduct 
 ---
-El código de conducta establece las normas sociales, reglas y responsabilidades que los individuos y organizaciones deben seguir al interactuar de alguna manera con la herramienta digital o su comunidad. Es una buena práctica para crear un ambiente de respeto e inclusión en las contribuciones al proyecto. La plataforma Github premia y ayuda a los repositorios dispongan de este archivo. Al crear CODE_OF_CONDUCT.md puedes empezar desde una plantilla sugerida por ellos. 
+The Code of Conduct establishes the social norms, rules, and responsibility that individuals and organizations are expected to follow when interacting in any way with the digital tool and its respective community. It is considered a best practice to actively encourage an environment of respect and inclusion for making contributions to the project. The Github platform awards and supports the repositories which provide this specific section. As soon as you create CODE_OF_CONDUCT.md you can access the specific recommended template created by Github. 
 
-### Autor/es
+### Authors
 ---
-Nombra a el/los autor/es original/es. Consulta con ellos antes de publicar un email o un nombre personal. Una manera muy común es dirigirlos a sus cuentas de redes sociales.
+Name the original authors of the tool here. You should personally consult with all parties before publishing their name or contact information, such as email addresses. Some may also choose to direct contacts or questions to their social media profiles.
 
-### Información adicional
+### Additional Information
 ---
-Esta es la sección que permite agregar más información de contexto al proyecto como alguna web de relevancia, proyectos similares o que hayan usado la misma tecnología.
+This section can offer more information about the context of the creation of the digital tool, additional links or other resources mentioning the tool, related projects, or case studies where the technology has been used.
 
-### Licencia 
+### License 
 ---
-La licencia especifica los permisos y las condiciones de uso que el desarrollador otorga a otros desarrolladores que usen y/o modifiquen la herramienta digital.
+The license specifies the permission and the conditions for use that the developer authorizes to others who wish to use or modify the digital tool.
 
-Incluye en esta sección una note con el tipo de licencia otorgado a esta herramienta digital. El texto de la licencia debe estar incluído en un archivo *LICENCE.md* o *LICENCE.txt* en la carpeta raíz.
+Include a note in this section with the type of license that has been assigned to the digital tool. The text of this license should be included in a specific file named *LICENSE.md* or *LICENSE.txt* in the main folder.
 
-Si desconoces qué tipos de licencias existen y cuál es la mejor para cada caso, te recomendamos visitar la página https://choosealicense.com/.
+If you are unsure about what kinds of licenses exist and which would be the best for your case, we recommend visiting the following page: https://choosealicense.com/.
