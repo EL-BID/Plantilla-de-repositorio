@@ -1,4 +1,4 @@
-Visit la [Guía de Publicación](el-bid.github.io/guia-de-publicacion/) para saber más sobre cómo publicar herramientas digitales.
+Visita la [Guía de Publicación](el-bid.github.io/guia-de-publicacion/) para saber más sobre cómo publicar herramientas digitales.
 Para aprender más sobre la iniciativa de Código para el Desarrollo visita: www.code.iadb.org
 
 ## Plantilla de Documentación de Soporte y Uso de herramientas digitales
@@ -29,7 +29,7 @@ Descripción de los recursos externos que generan una dependencia para la reutil
 
 ### Cómo contribuir
 ---
-Esta sección explica explica a desarrolladores cuáles son las maneras habituales de enviar una solicitud de adhesión de nuevo código (“pull requests”), cómo declarar fallos en la herramienta y qué guías de estilo se deben usar al escribir más líneas de código.
+Esta sección explica a desarrolladores cuáles son las maneras habituales de enviar una solicitud de adhesión de nuevo código (“pull requests”), cómo declarar fallos en la herramienta y qué guías de estilo se deben usar al escribir más líneas de código.
 
 ### Código de conducta 
 ---
