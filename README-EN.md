@@ -1,35 +1,35 @@
-Visit la [Guía de Publicación](el-bid.github.io/guia-de-publicacion/) para saber más sobre cómo publicar herramientas digitales.
-Para aprender más sobre la iniciativa de Código para el Desarrollo visita: www.code.iadb.org
+Visit the [Publication Guide](el-bid.github.io/guia-de-publicacion/) (currently available in Spanish) for more information about how to publish digital tools.
+To learn more about the Code for Development initiative, visit: www.code.iadb.org
 
-## Plantilla de Documentación de Soporte y Uso de herramientas digitales
+## Template for Support and Use Documentation of Digital Tools
 
-### Nombre
-### Descripción y contexto
+### [Tool Name]
+### Description and Context
 ---
-Esto es un archivo README. Debe contener la documentación de soporte uso de la herramienta digital. Las siguientes secciones son las secciones recomendadas que debes poner incluir en cualquier herramienta digital. Puedes descargar este archivo para que te sirva como plantilla.
+This is a README file. It should contain the necessary documentation to support the use of the digital tool. The following sections are recommended to include for the documentation of any digital tool. You can download this file in order to use it as a template for your own documentation.
 
-Asegúrate de empezar este archivo con una breve descripción sobre las funcionalidades y contexto de la herramienta digital. Sé conciso y al grano.
+Start the README file with a brief description of the functionality and the context for use of your tool. Be specific and concise.
 
-### Guía de usuario
+### User Guide
 ---
-Explica los pasos básicos sobre cómo usar la herramienta digital. Es una buena sección para mostrar capturas de pantalla o gifs que ayuden a entender la herramienta digital.
+Explain the basic steps of how to use the digital tool in this section. This is a great place to share screen captures or GIFs which could help others understand handling the tool.
  	
-### Guía de instalación
+### Installation Guide
 ---
-Paso a paso de cómo instalar la herramienta digital. En esta sección es recomendable explicar la arquitectura de carpetas y módulos que componen el sistema.
+Provide a step by step guide for how to install the digital tool. In this section, it is recommended to explain the file structure and all of the modules included in the system.
 
-Según el tipo de herramienta digital, el nivel de complejidad puede variar. En algunas ocasiones puede ser necesario instalar componentes que tienen dependencia con la herramienta digital. Si este es el caso, añade también la siguiente sección.
+Depending on the kind of digital tool you have, the level of complexity for installation may vary. It might be necessary to install additional components upon which the tool is dependent. If this is the case, be sure to add the next section.
 
-#### Dependencias
-Descripción de los recursos externos que generan una dependencia para la reutilización de la herramienta digital (librerías, frameworks, acceso a bases de datos y licencias de cada recurso). Es una buena práctica describir las últimas versiones en las que ha sido probada la herramienta digital. 
+#### Dependencies
+Describe any external resources which create a dependency for the reuse of the digital tool, such as libraries, frameworks, access to databases, and the corresponding licenses required to access each of these. Listing the latest version of these external resources that has been tested for use together with the digital tool is considered a best practice. 
 
-    Puedes usar este estilo de letra diferenciar los comandos de instalación.
+    You can use this style format to differenciate the installation commands.
 
-[Este](https://github.com/EL-BID/SmartMap) es un buen ejemplo de una descripción de dependencias.
+[This tool](https://github.com/EL-BID/SmartMap) offers a good example of a description of dependencies.
 
-### Cómo contribuir
+### How to Contribute
 ---
-Esta sección explica explica a desarrolladores cuáles son las maneras habituales de enviar una solicitud de adhesión de nuevo código (“pull requests”), cómo declarar fallos en la herramienta y qué guías de estilo se deben usar al escribir más líneas de código.
+This section explains to developers the most useful ways to send “pull requests”, how to declare any bugs found in the tool, and which style guides should be followed when contributing new lines of code.
 
 ### Código de conducta 
 ---
