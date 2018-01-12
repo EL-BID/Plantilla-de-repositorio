@@ -19,12 +19,15 @@ Paso a paso de cómo instalar la herramienta digital. En esta sección es recome
 
 Según el tipo de herramienta digital, el nivel de complejidad puede variar. En algunas ocasiones puede ser necesario instalar componentes que tienen dependencia con la herramienta digital. Si este es el caso, añade también la siguiente sección.
 
+La guía de instalación debe contener de manera específica:
+- Los requisitos del sistema operativo para la compilación (versiones específicas de librerías, software de gestión de paquetes y dependencias, SDKs y compiladores, etc.).
+- Las dependencias propias del proyecto, tanto externas como internas (orden de compilación de sub-módulos, configuración de ubicación de librerías dinámicas, etc.).
+- Pasos específicos para la compilación del código fuente y ejecución de tests unitarios en caso de que el proyecto disponga de ellos.
+
 #### Dependencias
 Descripción de los recursos externos que generan una dependencia para la reutilización de la herramienta digital (librerías, frameworks, acceso a bases de datos y licencias de cada recurso). Es una buena práctica describir las últimas versiones en las que ha sido probada la herramienta digital. 
 
     Puedes usar este estilo de letra diferenciar los comandos de instalación.
-
-[Este](https://github.com/EL-BID/SmartMap) es un buen ejemplo de una descripción de dependencias.
 
 ### Cómo contribuir
 ---
