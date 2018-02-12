@@ -49,7 +49,8 @@ Esta es la sección que permite agregar más información de contexto al proyect
 
 ### Licencia 
 ---
-[Licencia](https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/LICENSE.md)
+[LICENCIA](https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/LICENSE.md)
+
 La licencia especifica los permisos y las condiciones de uso que el desarrollador otorga a otros desarrolladores que usen y/o modifiquen la herramienta digital.
 
 Incluye en esta sección una note con el tipo de licencia otorgado a esta herramienta digital. El texto de la licencia debe estar incluído en un archivo *LICENSE.md* o *LICENSE.txt* en la carpeta raíz.
