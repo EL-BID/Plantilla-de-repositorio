@@ -50,3 +50,12 @@ The license specifies the permission and the conditions for use that the develop
 Include a note in this section with the type of license that has been assigned to the digital tool. The text of this license should be included in a specific file named *LICENSE.md* or *LICENSE.txt* in the main folder.
 
 If you are unsure about what kinds of licenses exist and which would be the best for your case, we recommend visiting the following page: https://choosealicense.com/.
+
+### Limitation of responsibilities
+---
+
+The IDB is not responsible, under any circumstance, for damage or compensation, moral or patrimonial; direct or indirect; accessory or special; or by way of consequence, foreseen or unforeseen, that could arise:
+
+I. Under any concept of intellectual property, negligence or detriment of another part theory; I
+
+ii. Following the use of the Digital Tool, including, but not limited to defects in the Digital Tool, or the loss or inaccuracy of data of any kind. The foregoing includes expenses or damages associated with communication failures and / or malfunctions of computers, linked to the use of the Digital Tool.
