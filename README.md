@@ -2,7 +2,7 @@
 
 
 ## Plantilla de Documentación de Soporte y Uso de herramientas digitales
-
+[![Analytics](https://gabeacon.irvinlim.com/UA-4677001-16/Plantilla-de-repositorio/readme?useReferer)](https://github.com/EL-BID/Plantilla-de-repositorio/)
 ### Nombre
 ### Descripción y contexto
 ---
