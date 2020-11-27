@@ -3,7 +3,9 @@
 
 ## Plantilla de Documentación de Soporte y Uso de herramientas digitales
 [![Analytics](https://gabeacon.irvinlim.com/UA-4677001-16/Plantilla-de-repositorio/readme?useReferer)](https://github.com/EL-BID/Plantilla-de-repositorio/)
-### Nombre
+
+### Nombre de la herramienta
+
 ### Descripción y contexto
 ---
 Esto es un archivo README. Debe contener la documentación de soporte uso de la herramienta digital. Las siguientes secciones son las secciones recomendadas que debes poner incluir en cualquier herramienta digital. Puedes descargar este archivo para que te sirva como plantilla.
