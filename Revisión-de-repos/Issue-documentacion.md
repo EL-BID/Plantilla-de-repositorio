@@ -1,6 +1,6 @@
 ### Este issue forma parte del proceso de revisión del Laboratoria Code Squads Noviembre 2020 de la iniciativa Código para el Desarrollo de @EL-BID 
 
-## Issue de revisión de documentación:
+## Issue de revisión de documentación - readme.md:
 
 Al haber contrastado la información presentadas en el repo oficial con los campos solicitados en la plantilla de [readme.md](https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/README.md) hemos encontrado los siguiente puntos a mejorar:
 
@@ -14,7 +14,8 @@ Al haber contrastado la información presentadas en el repo oficial con los camp
 - [ ] Añadir comando de ejecución para pruebas unitarias.
 - [ ] Hacer mención de las tecnologías utilizadas y añadir enlaces haciendo referencia a la documentación de cada una.
 - [ ] Si es preciso, añadir fragmentos de código con ejemplos de uso.
-- [ ] Añadir un apartado con el proceso detallado para contribuir al proyecto
+- [ ] Añadir un apartado con el proceso detallado para contribuir al proyecto.
+- [ ] Añadir un apartado especificando la licencia open source que se esté usando redirigiendo al archivo LICENSE.md.
 
 
 ### Caso de uso de este template:
