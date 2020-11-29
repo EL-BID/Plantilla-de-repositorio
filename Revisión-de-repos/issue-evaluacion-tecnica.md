@@ -1,4 +1,4 @@
-### Este issue forma parte de un procesos de revisión de la piloto @BID-COMUNIDADES/laboratoria-code-squads de la iniciativa Código para el desarrollo de @EL-BID.
+### Este issue forma parte del proceso de revisión del Laboratoria Code Squads Noviembre 2020 de la iniciativa Código para el desarrollo del @EL-BID.
 
 ## Issue de revisión de evaluación técnica:
 
