@@ -1,7 +1,7 @@
 
 [![Analytics](https://gabeacon.irvinlim.com/UA-4677001-16/Plantilla-de-repositorio/readme?useReferer)](https://github.com/EL-BID/Plantilla-de-repositorio/)
 
-## Plantilla de Documentación de Soporte y Uso de herramientas digitales
+## Plantilla de Documentación de Soporte y Uso de herramientas digitales - README.md
 Esta es una plantilla basada en los estándares de la Guía de publicacion de herramientas digitales del BID. Sabemos que no existe un solo estándar para la documentación de soporte y uso de herramientas digitales pero hemos recopilado estas características importantes que debe tener un readme.md para facilitar el uso y amplificar el potencial de impacto de las mismas. Cualquier comentario o recomendación les pedimos generar un issue de consulta o escribirnos directamente a code@iadb.org.
 
 ## La plantilla empieza aquí 👇
@@ -13,10 +13,10 @@ Esta es una plantilla basada en los estándares de la Guía de publicacion de he
 <p align="center"> Logo e imagen o gif de la interfaz principal de la herramienta</p>
 <p align="center"><img src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p> 
 
-### Badges o escudos
+## Badges o escudos
 Es común en muchos repositorios open source el uso de badges o escudos para dar visbilidad el uso de microservicios, licencias, descargas, etc. Recomendamos revisar la iniciativa https://shields.io/ donde según consideres necesario podrás generar badges para tu repo. 
 
-## Ejemplos de badges
+### Ejemplos de badges
 
 - code coverage percentage: ![coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
 - stable release version: ![version](https://img.shields.io/badge/version-1.2.3-blue)
