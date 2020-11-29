@@ -93,6 +93,7 @@ Incluye en esta sección una note con el tipo de licencia otorgado a esta herram
 Si desconoces qué tipos de licencias existen y cuál es la mejor para cada caso, te recomendamos visitar la página https://choosealicense.com/.
 
 ## Limitación de responsabilidades
+Disclaimer: Esta sección es solo para herramientas financiadas por el BID.
 
 El BID no será responsable, bajo circunstancia alguna, de daño ni indemnización, moral o patrimonial; directo o indirecto; accesorio o especial; o por vía de consecuencia, previsto o imprevisto, que pudiese surgir:
 
