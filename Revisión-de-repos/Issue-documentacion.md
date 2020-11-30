@@ -14,6 +14,7 @@ Al haber contrastado la información presentadas en el repo oficial con los camp
 - [ ] Añadir comando de ejecución para pruebas unitarias.
 - [ ] Hacer mención de las tecnologías utilizadas y añadir enlaces haciendo referencia a la documentación de cada una.
 - [ ] Si es preciso, añadir fragmentos de código con ejemplos de uso.
+- [ ] Añadir sección autor@s.
 - [ ] Añadir un apartado con el proceso detallado para contribuir al proyecto.
 - [ ] Añadir un apartado especificando la licencia open source que se esté usando redirigiendo al archivo LICENSE.md.
 
