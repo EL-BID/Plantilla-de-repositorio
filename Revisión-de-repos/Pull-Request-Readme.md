@@ -11,7 +11,7 @@ Seguir este tutorial para generar un PR en un repositorio abierto en GitHub:
 https://www.youtube.com/watch?v=_M8oalUyz10
 
 El Pull Request puede ser un trabajo iterativo con el equipo técnico de la herramienta. 
-Los puntos de mejora serán realizados bajo las capacidades de las Laboratorians:
+Los puntos de mejora serán realizados bajo las capacidades de las Laboratorians.
 
 ## Recomendaciones:
 
