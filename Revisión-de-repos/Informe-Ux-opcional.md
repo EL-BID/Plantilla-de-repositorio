@@ -1,4 +1,4 @@
-## Objetvo:
+## Objetivo:
 Hacer un informe de recomendaciones a la experiencia de usuario de las herramientas.
 - La estructura queda a criterio de las laboratorians.
 
