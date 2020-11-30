@@ -12,8 +12,10 @@ Esta es una plantilla basada en los estándares de la Guía de publicacion de he
 <h1 align="center"> Nombre de la herramienta</h1>
 <p align="center"> Logo e imagen o gif de la interfaz principal de la herramienta</p>
 <p align="center"><img src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p> 
+
 ## Tabla de contenidos:
 ---
+
 - [Badges o escudos](#badges-o-escudos)
 - [Descripción y contexto](#descripción-y-contexto)
 - [Guía de usuario](#guía-de-usuario)
