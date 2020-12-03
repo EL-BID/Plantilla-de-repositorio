@@ -6,7 +6,7 @@ Al haber contrastado la información presentadas en el repo oficial con los camp
 
 - [ ] Agregar el logo para identificar el proyecto.
 - [ ] Agregar una imagen o gif del proyecto para identificar su funcionalidad principal.
-- [ ] Incluir badges con el estado de desarrollo, licencia, versión, coverage, sociales u otras. Esta herramienta puede ser de utilidad: https://shields.io/
+- [ ] Incluir badges con el estado de desarrollo, licencia, versión, coverage, sociales u otras. Esta herramienta puede ser de utilidad: https://shields.io/ (tutorial recomendado: https://www.youtube.com/watch?v=SIh5MQoQLPs)
 - [ ] Proporcionar una tabla de contenidos con links para cada apartado para que funcione como índice.
 - [ ] Especificar los pre-requisitos necesarios para ejecutar el proyecto (environment, librerías, dependencias, entre otros), y proporcionar comandos de instalación de los mismos.
 - [ ] Precisar si se requieren variables de entorno y en qué parte de la arquitectura se colocan.
