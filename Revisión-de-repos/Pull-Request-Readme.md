@@ -3,6 +3,7 @@
 ## Antes de generar un PR:
 
 Recomendamos que generen los issues de revisión en los repos oficiales de las herramientas antes de generar un PR. 
+Ver el readme de la plantilla de repositorio https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/README.md como referencia.
 Solo después de esto las laboratorians pueden generar un pull request para ayudar a mejorar los readmes de las herramientas asignadas.
 
 ## Tutorial:
