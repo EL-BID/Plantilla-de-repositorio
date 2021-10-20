@@ -15,7 +15,7 @@ This is a template based on the standards of the IDB Digital Tools Publication G
 ## Table of Contents:
 ---
 
-- [Badges o escudos](#badges-or-shields)
+- [Badges or shields](#badges-or-shields)
 - [Description and context](#description-and-context)
 - [User's Guide](#users-guide)
 - [Installation guide](#installation-guide)
