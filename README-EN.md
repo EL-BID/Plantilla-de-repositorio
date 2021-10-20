@@ -1,61 +1,118 @@
-Visit the [Publication Guide](el-bid.github.io/guia-de-publicacion/) (currently available in Spanish) for more information about how to publish digital tools.
-To learn more about the Code for Development initiative, visit: www.code.iadb.org
+[![Analytics](https://gabeacon.irvinlim.com/UA-4677001-16/Plantilla-de-repositorio/readme?useReferer)](https://github.com/EL-BID/Plantilla-de-repositorio/)
 
-## Template for Support and Use Documentation of Digital Tools
+## Digital Tools Use and Support Documentation Template - README.md
+This is a template based on the standards of the IDB Digital Tools Publication Guide. We know that there is no single standard for supporting documentation and use of digital tools, but we have compiled these important characteristics that a readme.md should have to facilitate their use and amplify their potential impact. Any comment or recommendation, yo can create an issue or write to us directly at code@iadb.org.
 
-### [Tool Name]
-### Description and Context
----
-This is a README file. It should contain the necessary documentation to support the use of the digital tool. The following sections are recommended to include for the documentation of any digital tool. You can download this file in order to use it as a template for your own documentation.
+## Template starts here 👇
 
-Start the README file with a brief description of the functionality and the context for use of your tool. Be specific and concise.
 
-### User Guide
----
-Explain the basic steps of how to use the digital tool in this section. This is a great place to share screen captures or GIFs which could help others understand handling the tool.
- 	
-### Installation Guide
----
-Provide a step by step guide for how to install the digital tool. In this section, it is recommended to explain the file structure and all of the modules included in the system.
+* This digital tool is part of the catalog of tools of the ** Inter-American Development Bank **. You can learn more about the IDB initiative at [code.iadb.org] (https://code.iadb.org) *
 
-Depending on the kind of digital tool you have, the level of complexity for installation may vary. It might be necessary to install additional components upon which the tool is dependent. If this is the case, be sure to add the next section.
+<h1 align = "center"> Tool name </h1>
+<p align = "center"> Logo and image or gif of the main interface of the tool </p>
+<p align = "center"> <img src = "https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png" /> </p>
 
-#### Dependencies
-Describe any external resources which create a dependency for the reuse of the digital tool, such as libraries, frameworks, access to databases, and the corresponding licenses required to access each of these. Listing the latest version of these external resources that has been tested for use together with the digital tool is considered a best practice. 
-
-    You can use this style format to differenciate the installation commands.
-
-[This tool](https://github.com/EL-BID/SmartMap) offers a good example of a description of dependencies.
-
-### How to Contribute
----
-This section explains to developers the most useful ways to send “pull requests”, how to declare any bugs found in the tool, and which style guides should be followed when contributing new lines of code.
-
-### Code of Conduct 
----
-The Code of Conduct establishes the social norms, rules, and responsibility that individuals and organizations are expected to follow when interacting in any way with the digital tool and its respective community. It is considered a best practice to actively encourage an environment of respect and inclusion for making contributions to the project. The Github platform awards and supports the repositories which provide this specific section. As soon as you create CODE_OF_CONDUCT.md you can access the specific recommended template created by Github. 
-
-### Authors
----
-Name the original authors of the tool here. You should personally consult with all parties before publishing their name or contact information, such as email addresses. Some may also choose to direct contacts or questions to their social media profiles.
-
-### Additional Information
----
-This section can offer more information about the context of the creation of the digital tool, additional links or other resources mentioning the tool, related projects, or case studies where the technology has been used.
-
-### License 
----
-The license specifies the permission and the conditions for use that the developer authorizes to others who wish to use or modify the digital tool.
-
-Include a note in this section with the type of license that has been assigned to the digital tool. The text of this license should be included in a specific file named *LICENSE.md* or *LICENSE.txt* in the main folder.
-
-If you are unsure about what kinds of licenses exist and which would be the best for your case, we recommend visiting the following page: https://choosealicense.com/.
-
-### Limitation of responsibilities
+## Table of Contents:
 ---
 
-The IDB is not responsible, under any circumstance, for damage or compensation, moral or patrimonial; direct or indirect; accessory or special; or by way of consequence, foreseen or unforeseen, that could arise:
+- [Badges o escudos](#badges-or-shields)
+- [Description and context](#description-and-context)
+- [User's Guide](#users-guide)
+- [Installation guide](#installation-guide)
+- [How to contribute](#how-to-contribute)
+- [Code of conduct](#code-of-conduct)
+- [Author/s](#authors)
+- [Additional Information](#additional-information)
+- [License](#license)
+- [Limitation of responsibilities](#limitation-of-responsibilities)
 
-I. Under any concept of intellectual property, negligence or detriment of another part theory; I
 
-ii. Following the use of the Digital Tool, including, but not limited to defects in the Digital Tool, or the loss or inaccuracy of data of any kind. The foregoing includes expenses or damages associated with communication failures and / or malfunctions of computers, linked to the use of the Digital Tool.
+## Badges or shields
+---
+It is common in many open source repositories to use badges or shields to give visibility to the use of microservices, licenses, downloads, etc. We recommend reviewing the https://shields.io/ initiative where, as you deem necessary, you can generate badges for your repo.
+
+### Badge examples
+
+- code coverage percentage: ![coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
+- stable release version: ![version](https://img.shields.io/badge/version-1.2.3-blue)
+- package manager release: ![gem](https://img.shields.io/badge/gem-2.2.0-blue)
+- status of third-party dependencies: ![dependencies](https://img.shields.io/badge/dependencies-out%20of%20date-orange)
+- static code analysis grade: ![codacy](https://img.shields.io/badge/codacy-B-green)
+- [SemVer](https://semver.org/) version observance: ![semver](https://img.shields.io/badge/semver-2.0.0-blue)
+- amount of [Liberapay](https://liberapay.com/) donations per week: ![receives](https://img.shields.io/badge/receives-2.00%20USD%2Fweek-yellow)
+- Python package downloads: ![downloads](https://img.shields.io/badge/downloads-13k%2Fmonth-brightgreen)
+- Chrome Web Store extension rating: ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
+- [Uptime Robot](https://uptimerobot.com) percentage: ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
+
+
+### Badges we request:
+---
+In the Code for Development initiative, we ask the teams that add their tools to the catalog to add the badge generated by the use of the SonarCloud static code evaluation microservice.
+
+The badge looks like this and redirects to the static evaluation report of the last commit of the tool:
+
+[! [Quality Gate Status] (https://sonarcloud.io/api/project_badges/measure?project=EL-BID_guia-de-publicacion&metric=alert_status)] (https://sonarcloud.io/dashboard?id=EL- BID_ publication-guide)
+
+
+## Description and context
+---
+This is a README file. It must contain the supporting documentation for the use of the digital tool. The following sections are the recommended sections that you should include in any digital tool. You can download this file to serve as a template.
+
+Be sure to start this file with a brief description of the functionalities and context of the digital tool. Be concise and to the point.
+
+## User's Guide
+---
+Explains the basic steps on how to use the digital tool. It is a good section to show screenshots or gifs to help you understand the digital tool.
+ 
+## Installation guide
+---
+Step by step of how to install the digital tool. In this section it is recommended to explain the architecture of folders and modules that make up the system.
+
+Depending on the type of digital tool, the level of complexity may vary. On some occasions it may be necessary to install components that are dependent on the digital tool. If this is the case, add the following section as well.
+The installation guide should specifically contain:
+- The operating system requirements for the compilation (specific versions of libraries, package and dependency management software, SDKs and compilers, etc.).
+- The project's own dependencies, both external and internal (order of compilation of sub-modules, configuration of the location of dynamic libraries, etc.).
+- Specific steps for compiling the source code and executing unit tests if the project has them.
+
+### Dependencies
+Description of the external resources that generate a dependency for the reuse of the digital tool (libraries, frameworks, access to databases and licenses for each resource). It is good practice to describe the latest versions that the digital tool has been tested on.
+
+    You can use this font style to differentiate the installation commands.
+
+## How to contribute
+---
+This section explains to developers the common ways to submit a pull requests, how to declare bugs in the tool, and what style guides to use when writing more lines of code. You can also make a list of points that can be improved in your code to create ideas for improvement.
+
+## Code of conduct
+---
+The code of conduct establishes the social norms, rules and responsibilities that individuals and organizations must follow when interacting in any way with the digital tool or their community. It is good practice to create an environment of respect and inclusion in contributions to the project.
+
+The Github platform rewards and helps repositories have this file. When creating CODE_OF_CONDUCT.md you can start from a template suggested by them. You can read more about how to create a Code of Conduct file (here) [https://help.github.com/articles/adding-a-code-of-conduct-to-your-project/]
+
+## Author/s
+---
+Name the original author / s. Check with them before posting an email or personal name. A very common way is to direct them to your social media accounts.
+
+## Additional Information
+---
+This is the section that allows you to add more contextual information to the project such as a relevant website, similar projects or that have used the same technology.
+
+## License
+---
+
+The license specifies the permissions and conditions of use that the developer grants to other developers who use and / or modify the digital tool.
+
+Include in this section a note with the type of license granted to this digital tool. The license text must be included in a * LICENSE.md * or * LICENSE.txt * file at the root of the repository.
+
+If you do not know what types of licenses exist and which is the best for each case, we recommend you visit the page https://choosealicense.com/.
+
+If the tool you are publishing with the Code for Development initiative has been financed by the IDB, we invite you to review the [bank's official license to publish software] (https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/LICENSE.md)
+
+## Limitation of responsibilities
+Disclaimer: This section is only for IDB-funded tools.
+
+The IDB will not be responsible, under any circumstance, for damage or compensation, moral or patrimonial; direct or indirect; accessory or special; or by way of consequence, foreseen or unforeseen, that could arise:
+
+i. Under any theory of liability, whether by contract, infringement of intellectual property rights, negligence or under any other theory; me
+
+ii. As a result of the use of the Digital Tool, including, but not limited to, potential defects in the Digital Tool, or the loss or inaccuracy of data of any kind. The foregoing includes expenses or damages associated with communication failures and / or computer malfunctions, related to the use of the Digital Tool.
