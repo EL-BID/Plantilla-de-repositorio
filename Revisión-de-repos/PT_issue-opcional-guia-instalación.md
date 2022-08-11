@@ -7,7 +7,7 @@ O objetivo deste problema é melhorar o guia de instalação.
 Como esse problema afetou você? O que você está tentando realizar?
 Fornecer contexto nos ajuda a encontrar uma solução mais útil no mundo real
 
-### meio Ambiente
+### Ambiente
 * Versão utilizada:
 * Nome e versão do navegador:
 * Sistema operacional e versão (desktop ou mobile):
