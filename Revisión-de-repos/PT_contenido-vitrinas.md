@@ -1,4 +1,4 @@
-### Estas são indicações e recomendações para gerar conteúdo para as vitrines das ferramentas a serem revisadas no âmbito do Laboratory Code Squads novembro 2020 da iniciativa Code for Development.
+### Estas são indicações e recomendações para gerar conteúdo para as vitrines das ferramentas a serem revisadas no âmbito da Laboratoria Code Squads novembro 2020 da iniciativa Code for Development.
 
 ## Valide a dica de ferramenta:
 
