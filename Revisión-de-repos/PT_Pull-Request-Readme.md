@@ -1,4 +1,4 @@
-### Estas são indicações e recomendações para gerar um Pull Request (PR) no âmbito da Laboratory Code Squads novembro 2020 da iniciativa Code for Development.
+### Estas são indicações e recomendações para gerar um Pull Request (PR) no âmbito da Laboratoria Code Squads novembro 2020 da iniciativa Code for Development.
 
 ## Antes de gerar um PR:
 
