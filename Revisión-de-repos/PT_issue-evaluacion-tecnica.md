@@ -1,4 +1,4 @@
-### Esta edição faz parte do processo de revisão dos Laboratory Code Squads novembro 2020 da iniciativa Code for the development of @EL-BID.
+### Esta edição faz parte do processo de revisão da Laboratoria Code Squads novembro 2020 da iniciativa Code for the development of @EL-BID.
 
 ## Issue de revisão de avaliação técnica:
 
