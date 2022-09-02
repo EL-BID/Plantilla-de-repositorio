@@ -4,7 +4,7 @@
 
 Tendo contrastado as informações apresentadas no repositório oficial com os campos solicitados no modelo de [readme.md](https://github.com/EL-BID/Temptilla-de-repositorio/blob/master/README.md) encontraram os seguintes pontos para melhorar:
 
-- [ ] Adicione o logotipo para identificar o projeto.
+- [x] Adicione o logotipo para identificar o projeto.
 - [ ] Adicione uma imagem ou gif do projeto para identificar sua principal funcionalidade.
 - [ ] Incluir badges com o estado de desenvolvimento, licença, versão, cobertura, social ou outros. Esta ferramenta pode ser útil: https://shields.io/ (tutorial recomendado: https://www.youtube.com/watch?v=SIh5MQoQLPs)
 - [ ] Forneça uma tabela com links para cada seção para funcionar como um índice.
