@@ -22,7 +22,7 @@ Este é um modelo baseado nos padrões do Guia de Publicação de Ferramentas Di
 - [Guia do usuário](#user-guide)
 - [Guia de instalação](#install-guide)
 - [Como contribuir](#how-to-contribute)
-- [Codigo de conduta](#código de conduta)
+- [Codigo de conduta](#código_de_conduta)
 - [Autor/es](#autores)
 - [Informações adicionais](#informações-adicionais)
 - [Licença](#licença)
