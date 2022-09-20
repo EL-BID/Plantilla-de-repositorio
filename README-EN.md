@@ -51,7 +51,7 @@ In the Code for Development initiative, we ask the teams that add their tools to
 
 The badge looks like this and redirects to the static evaluation report of the last commit of the tool:
 
-[! [Quality Gate Status] (https://sonarcloud.io/api/project_badges/measure?project=EL-BID_guia-de-publicacion&metric=alert_status)] (https://sonarcloud.io/dashboard?id=EL- BID_ publication-guide)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=EL-BID_guia-de-publicacion&metric=alert_status)](https://sonarcloud.io/dashboard?id=EL-BID_guia-de-publicacion)
 
 
 ## Description and context
