@@ -107,7 +107,7 @@ Inclua nesta seção uma nota com o tipo de licença concedida a esta ferramenta
 
 Se você não sabe que tipos de licenças existem e qual é a melhor para cada caso, recomendamos que visite a página https://choosealicense.com/.
 
-Se a ferramenta que você está publicando com a iniciativa Code for Development foi financiada pelo BID, convidamos você a revisar a [licença oficial do banco para publicar software](https://github.com/EL-BID/Temptilla-de - repositório/blob/master/LICENSE.md)
+Se a ferramenta que você está publicando com a iniciativa Código para o Desenvolvimento foi financiada pelo BID, convidamos você a revisar o [licencia oficial del banco para publicar software](https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/LICENSE.md)
 
 ## Isenção de responsabilidade
 Isenção de responsabilidade: Esta seção é apenas para ferramentas financiadas pelo BID.
