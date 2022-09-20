@@ -22,17 +22,17 @@ Este é um modelo baseado nos padrões do Guia de Publicação de Ferramentas Di
 - [Guia do usuário](#user-guide)
 - [Guia de instalação](#install-guide)
 - [Como contribuir](#how-to-contribute)
-- [Código de conduta](#código de conduta)
+- [Codigo de conduta](#código de conduta)
 - [Autor/es](#autores)
 - [Informações adicionais](#informações-adicionais)
 - [Licença](#licença)
 - [Limitação de responsabilidades - somente BID](#limitação-de-responsabilidades)
 
-## Emblemas ou escudos
+## Badges ou escudos
 ---
 É comum em muitos repositórios open source usar badges ou shields para dar visibilidade ao uso de microsserviços, licenças, downloads, etc. Recomendamos revisar a iniciativa https://shields.io/ onde, conforme julgar necessário, você pode gerar badges para seu repositório.
 
-### Exemplos de emblemas
+### Exemplos de Badges
 
 - porcentagem de cobertura de código: ![coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
 - versão de lançamento estável: ![versão](https://img.shields.io/badge/version-1.2.3-blue)
@@ -45,7 +45,7 @@ Este é um modelo baseado nos padrões do Guia de Publicação de Ferramentas Di
 - Classificação da extensão da Chrome Web Store: ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 - [Uptime Robot](https://uptimerobot.com) porcentagem: ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
 
-### Emblemas que solicitamos:
+### Badges que solicitamos:
 ---
 Na iniciativa Code for Development, solicitamos às equipes que adicionam suas ferramentas ao catálogo que adicionem o badge gerado pelo uso do microsserviço de avaliação de código estático SonarCloud.
 
