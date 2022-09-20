@@ -22,11 +22,11 @@ Este é um modelo baseado nos padrões do Guia de Publicação de Ferramentas Di
 - [Guia do usuário](#Guia-do-usuário)
 - [Guia de instalação](#Guia-de-instalação)
 - [Como contribuir](#Como-contribuir)
-- [Código de conducta](#Código-de-conduta)
+- [Código de conduta](#Código-de-conduta)
 - [Autor/es](#Autor(es))
-- [Información adicional](#Informação-adicional)
-- [Licencia](#Licença)
-- [Limitación de responsabilidades - Solo BID](#Isenção-de-responsabilidade)
+- [Informação adicional](#Informação-adicional)
+- [Licença](#Licença)
+- [Isenção de responsabilidade - Somente BID](#Isenção-de-responsabilidade)
 
 ## Badges ou escudos
 ---
