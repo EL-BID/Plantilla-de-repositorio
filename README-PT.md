@@ -17,16 +17,16 @@ Este é um modelo baseado nos padrões do Guia de Publicação de Ferramentas Di
 ## Tabela de conteúdos:
 ---
 
-- [Badges ou escudos](#badges-o-escudos)
-- [Descrição e contexto](#description-and-context)
-- [Guia do usuário](#user-guide)
-- [Guia de instalação](#install-guide)
-- [Como contribuir](#how-to-contribute)
-- [Codigo de conduta](#código_de_conduta)
-- [Autor/es](#autores)
-- [Informações adicionais](#informações-adicionais)
-- [Licença](#licença)
-- [Limitação de responsabilidades - somente BID](#limitação-de-responsabilidades)
+- [Badges ou escudos](#badges-ou-escudos)
+- [Descrição e contexto](#Descrição-e-contexto)
+- [Guia do usuário](#Guia-do-usuário)
+- [Guia de instalação](#Guia-de-instalação)
+- [Como contribuir](#Como-contribuir)
+- [Código de conducta](#Código-de-conduta)
+- [Autor/es](#Autor(es))
+- [Información adicional](#Informação-adicional)
+- [Licencia](#Licença)
+- [Limitación de responsabilidades - Solo BID](#Isenção-de-responsabilidade)
 
 ## Badges ou escudos
 ---
@@ -86,4 +86,34 @@ Esta seção explica aos desenvolvedores quais são as formas usuais de enviar u
 
 ## Código de conduta
 ---
-O código de conduta estabelece as normas sociais, regras e responsabilidades que indivíduos e organizações devem seguir ao interagir de qualquer forma com a ferramenta digital ou sua comunidade. É uma boa prática criar
+O código de conduta estabelece as normas sociais, regras e responsabilidades que indivíduos e organizações devem seguir ao interagir de qualquer forma com a ferramenta digital ou sua comunidade. É uma boa prática criar um ambiente de respeito e inclusão nas contribuições ao projeto.
+
+A plataforma Github recompensa e ajuda os repositórios a ter esse arquivo. Ao criar CODE_OF_CONDUCT.md você pode começar a partir de um template sugerido por eles. Você pode ler mais sobre como criar um arquivo de Código de Conduta (aqui)[https://help.github.com/articles/adding-a-code-of-conduct-to-your-project/]
+
+## Autor(es)
+---
+Nomeie o(s) autor(es) original(is). Verifique com eles antes de postar um e-mail ou nome pessoal. Uma maneira muito comum é direcioná-los para suas contas de mídia social.
+
+## Informação adicional
+---
+Esta é a seção que permite adicionar mais informações de contexto ao projeto, como um site relevante, projetos semelhantes ou aqueles que usaram a mesma tecnologia.
+
+## Licença
+---
+
+A licença especifica as permissões e condições de uso que o desenvolvedor concede a outros desenvolvedores que usam e/ou modificam a ferramenta digital.
+
+Inclua nesta seção uma nota com o tipo de licença concedida a esta ferramenta digital. O texto da licença deve ser incluído em um arquivo *LICENSE.md* ou *LICENSE.txt* na raiz do repositório.
+
+Se você não sabe que tipos de licenças existem e qual é a melhor para cada caso, recomendamos que visite a página https://choosealicense.com/.
+
+Se a ferramenta que você está publicando com a iniciativa Code for Development foi financiada pelo BID, convidamos você a revisar a [licença oficial do banco para publicar software](https://github.com/EL-BID/Temptilla-de - repositório/blob/master/LICENSE.md)
+
+## Isenção de responsabilidade
+Isenção de responsabilidade: Esta seção é apenas para ferramentas financiadas pelo BID.
+
+O BID não será responsável, em hipótese alguma, por danos ou indenizações, morais ou patrimoniais; direto ou indireto; acessório ou especial; ou por consequência, prevista ou imprevista, que possa surgir:
+
+Ei. Sob qualquer teoria de responsabilidade, seja em contrato, violação de direitos de propriedade intelectual, negligência, ou sob qualquer outra teoria; Eu
+
+ii. Como resultado do uso da Ferramenta Digital, incluindo, mas não limitado a, possíveis defeitos na Ferramenta Digital, ou perda ou imprecisão de dados de qualquer tipo. O anterior inclui despesas ou danos associados a falhas de comunicação e/ou mau funcionamento do computador, vinculados ao uso da Ferramenta Digital.
