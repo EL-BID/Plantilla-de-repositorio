@@ -51,7 +51,7 @@ En la iniciativa Código para el Desarrollo solicitamos a los equipos que suman 
 
 El badge se ve así y redirige al reporte de evaluación estática del último commit de la herramienta:
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=EL-BID_guia-de-publicacion&metric=alert_status)](https://sonarcloud.io/dashboard?id=EL-BID_guia-de-publicacion)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=EL-BID_Plantilla-de-repositorio&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=EL-BID_Plantilla-de-repositorio)
 
 
 ## Descripción y contexto
