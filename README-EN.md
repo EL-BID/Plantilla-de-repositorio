@@ -6,7 +6,7 @@ This is a template based on the standards of the IDB Digital Tools Publication G
 ## Template starts here 👇
 
 
-* This digital tool is part of the catalog of tools of the ** Inter-American Development Bank **. You can learn more about the IDB initiative at [https://knowledge.iadb.org/en/code-development](https://knowledge.iadb.org/en/code-development) *
+* This digital tool is part of the catalog of tools of the **Inter-American Development Bank**. You can learn more about the IDB initiative at [https://knowledge.iadb.org/en/code-development](https://knowledge.iadb.org/en/code-development) *
 
 <h1 align = "center"> Tool name </h1>
 <p align = "center"> Logo and image or gif of the main interface of the tool </p>
