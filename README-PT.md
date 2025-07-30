@@ -8,7 +8,7 @@ Este é um modelo baseado nos padrões do Guia de Publicação de Ferramentas Di
 ## O modelo começa aqui 👇
 
 
-*Esta ferramenta digital faz parte do catálogo de ferramentas do **Banco Interamericano de Desenvolvimento**. Você pode saber mais sobre a iniciativa do BID em [code.iadb.org](https://code.iadb.org)*
+*Esta ferramenta digital faz parte do catálogo de ferramentas do **Banco Interamericano de Desenvolvimento**. Você pode saber mais sobre a iniciativa do BID em [https://knowledge.iadb.org/pt-br/codigo-para-o-desenvolvimento](https://knowledge.iadb.org/pt-br/codigo-para-o-desenvolvimento)*
 
 <h1 align="center"> Nome da ferramenta</h1>
 <p align="center"> Logo e imagem ou gif da interface principal da ferramenta</p>
