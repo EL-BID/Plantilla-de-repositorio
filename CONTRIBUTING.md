@@ -1,6 +1,6 @@
 ## Por qué contribuir
 
-Si has llegado hasta aquí es porque posiblemente estás pensando en contribuir a algún proyecto de [Código para el Desarrollo](code.iadb.org). 
+Si has llegado hasta aquí es porque posiblemente estás pensando en contribuir a algún proyecto de [Código para el Desarrollo](https://knowledge.iadb.org/es/codigo-para-el-desarrollo). 
 
 Código para el Desarrollo es el portal del **Banco Interamericano de Desarrollo** que te permite explorar y reutilizar herramientas digitales de código abierto, que pueden ser utilizadas en la implementación de los programas y proyectos para el desarrollo económico y social de los países de América Latina y el Caribe.
 
