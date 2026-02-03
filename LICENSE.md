@@ -1,92 +1,158 @@
-## AM-331-A3 Licencia de Software 
-Effective: April 2018
-Contenido de la página
+## IDB Open-Source Software License 
 
-El Software, con excepción de los Documentos de Soporte y Uso, deberá estar sujetos a los siguientes términos y condiciones, los cuales se empaquetarán como parte de cada Software bajo un archivo que llevará el nombre de "LICENCIA" :   
-"Copyright © [2017]. Banco Interamericano de Desarrollo ("BID"). Uso autorizado."
+Effective: December 2025 
 
-### 1. Licencia 
-Por medio de la presente licencia ("Licencia") no exclusiva, revocable, global y libre de regalías el BID otorga permiso al usuario ("Usuario") para reproducir, distribuir, ejecutar públicamente, prestar y poner a disposición del público, y modificar el software y sus modificaciones, por sí o como parte de una colección, siempre que sea para fines no comerciales, sujeto a los términos y condiciones aquí señalados.
-Salvo indicación en contrario, la Documentación de Soporte y Uso del software se licenciará bajo Creative Commons IGO 3.0 Atribución-NoComercial-SinObraDerivada (CC-IGO 3.0 BY-NC-ND).
+The Software, with the exception of the Support and Usage Documentation, shall be subject to the following terms and conditions, which shall be packaged as part of each Software under a file bearing the name "LICENSE":  
 
-#### 2.  Definiciones
-2.1  Software: conjunto de programas, instrucciones y reglas informáticas que permiten ejecutar tareas en una computadora a fin de gestionar un determinado proceso u obtener un determinado resultado. El Software incluye (i) código fuente, (ii) código objeto y (iii) Documentación de Soporte y Uso.   
-El Software puede ser del tipo, pero sin estar limitado a (i) programa ejecutable desde el computador, (ii) aplicación móvil y de escritorio, (iii) algoritmo y (iv) hoja de cálculo que contienen macros, así como otras instrucciones para simular, proyectar o realizar otros cálculos.  
-2.2  Código Fuente: conjunto de líneas de texto con los pasos que debe seguir la computadora para ejecutar el Software. Puede estar compuesto por un número indeterminado de documentos, con distintas extensiones y organizados en carpetas.   
-2.3  Código Objeto: código que resulta de la compilación del Código Fuente. La compilación es un proceso informático que traduce el Código Fuente en lenguaje máquina o bytecode.  
-2.4  Documentación de Soporte y Uso (la "Documentación"): se refiere a la información de acompañamiento al código fuente y objeto que permite a un humano comprender los objetivos, arquitectura y lenguaje de programación de Software.  
-2.5  Software Derivado: obras derivadas del Software, tales como modificaciones, actualizaciones y mejoras de la misma.  
-2.6  Usuario: cualquier persona, natural o jurídica, que obtenga una copia del Software.  
+"Copyright © [2017]. Inter-American Development Bank ("IDB"). Authorized Use." 
 
-### 3.      Derechos del BID 
-3.1  El BID se reserva todos los derechos de propiedad intelectual, incluyendo sin limitación derechos de autor, relacionados con o asociados al Software.  
-3.2  El BID se reserva expresamente los derechos de ceder, transferir y/o sub-licenciar el Software y/o cualquiera de sus componentes a terceros sin previo aviso.  
+### 1. License 
 
-### 4.      Derechos del Usuario sobre Software Derivado
-El Usuario que desarrolle Software Derivado retendrá todos los derechos de propiedad intelectual, incluyendo sin limitación derechos de autor, relacionados con o asociados al Software Derivado, en el entendido que dicho Software Derivado y cualquier otra edición futura estén sujetas a los mismos términos y condiciones de esta Licencia.
+The IDB hereby grants to the user ("User") a non-exclusive, worldwide, royalty-free license ("License") to reproduce, distribute, publicly perform, lend and make available to the public, and modify the software and modifications thereto, by itself or as part of a collection, subject to the terms and conditions set forth herein. Unless otherwise indicated, the Support and Use Documentation for the Software is licensed under Creative Commons CC-BY 4.0 license. 
 
-### 5.      Restricciones
-5.1  El Usuario sólo está autorizado a hacer uso del Software conforme se describe en esta Licencia.  
-5.2  Con excepción de esta Licencia, el BID no otorga ninguna otra licencia al Usuario con respecto a cualquier otra información u obra propiedad del BID o de cualquier derecho de autor, marcas o cualquier otro derecho de propiedad intelectual del BID. Cualquier licencia adicional deberá ser por escrito y firmada por un representante del BID debidamente autorizado para tales fines.  
-5.3  La Licencia no constituye una venta del Software ni de cualquier parte o copia de la misma.  
-5.4  El Usuario no podrá usar ni permitir que otros usen el Software para fines comerciales.  
-5.5  El Usuario sólo podrá autorizar el uso del Software a terceros de conformidad con lo establecido en esta Licencia, sin que en ningún caso los terceros puedan adquirir más derechos sobre el Software que los expresamente otorgados por el BID mediante esta Licencia.    
+### 2. Definitions 
 
-### 6.      Reconocimiento
-6.1 El Usuario deberá mantener los siguientes enunciados y exenciones en el archivo principal de la Documentación del Software:  
-"Copyright © [año]. Banco Interamericano de Desarrollo ("BID"). Uso autorizado.  
-Los procedimientos y resultados obtenidos en base a la ejecución de este software son los programados por los desarrolladores y no necesariamente reflejan el punto de vista del BID, de su Directorio Ejecutivo ni de los países que representa."   
-6.1.1 En el caso de Software del Fondo Multilateral de Inversiones ("FOMIN"), la exención de responsabilidad deberá ser: "Las opiniones expresadas en esta obra son de los autores y no necesariamente reflejan el punto de vista del BID, de su Directorio Ejecutivo ni de los países que representa, así como tampoco del Comité de Donantes del FOMIN ni de los países que representa."  
-6.2 El Usuario podrá incluir en el Software Derivado una referencia al Software como obra original, siempre y cuando dicho aviso no genere confusión alguna respecto a la titularidad de los derechos del BID sobre el Software.  
+2.1 “Software”: a set of computer programs, instructions and rules that enable tasks to be executed on a computer in order to manage a given process or obtain a given result. Software includes (i) Source Code, (ii) Object Code and (iii) Support and Usage Documentation. 
 
-### 7.      Nombre y Logo del BID
-El Usuario no podrá hacer uso del nombre y/o logo del BID para fines diferentes a los aquí estipulados, ni podrá hacer promesas, ni adquirir compromisos u obligaciones, ni otorgar garantías de ninguna clase en nombre del BID.
+The Software may be of the type, but not limited to (i) computer executable program, (ii) mobile and desktop application, (iii) algorithm and (iv) spreadsheet containing macros, as well as other instructions to simulate, project or perform other calculations. 
 
-### 8.      Declaraciones y Garantías
-8.1 El BID otorga esta Licencia sin garantía explícita o implícita de ningún género, objetiva o subjetiva, por responsabilidad contractual o extracontractual, lo que comprende, sin consistir en una enumeración taxativa, garantías de comerciabilidad, adecuación, cumplimiento de normas o requisitos o aplicabilidad para un fin determinado.   
-8.2 El BID no garantiza que el funcionamiento del Software será ininterrumpido o libre de errores y no asume obligación alguna de actualizar, corregir ni introducir mejoras en el Software.   
-8.3 El Usuario asume exclusivamente el riesgo por su utilización, y así deberá informarlo a terceros cuando utilice, distribuya o ponga el Software a disposición de terceros.     
+2.2 “Source Code”: set of lines of text containing the steps to be followed by the computer to execute the Software. It can be composed of any number of documents, with different extensions and organized in folders. 
 
-### 9.      Limitación de Responsabilidad
-9.1 El BID no será responsable, bajo circunstancia alguna, de daño ni indemnización, moral o patrimonial; directo o indirecto; accesorio o especial; o por vía de consecuencia, previsto o imprevisto, que pudiese surgir:  
-9.1.1  Bajo cualquier teoría de responsabilidad, ya sea por contrato, infracción de derechos de propiedad intelectual, negligencia o bajo cualquier otra teoría; y/o  
-9.1.2  A raíz del uso del Software, incluyendo, pero sin limitación de potenciales defectos en el Software, o la pérdida o inexactitud de los datos de cualquier tipo. Lo anterior incluye los gastos o daños asociados a fallas de comunicación y/o fallas de funcionamiento de computadoras, vinculados con la utilización del Software.  
+2.3 “Object Code”: code resulting from the compilation of the Source Code. Compilation is a computer process that translates the Source Code into machine language or bytecode. 
 
-### 10.  Indemnización
-10.1 El Usuario se obliga a liberar, defender e indemnizar al BID, su personal y consultores, conforme sea aplicable, de cualquier reclamo, queja, acción, pérdida, demanda, responsabilidad, obligación, daño, costo, incluyendo sin limitación, honorarios de abogados, que pudiesen emprender contra el BID, su personal y/o consultores en virtud de:   
-10.1.1  El ejercicio de los derechos otorgados por el BID bajo esta Licencia.  
-10.1.2  Incumplimiento de los términos y condiciones de esta Licencia por parte del Usuario.  
-10.1.3  Infracción de derechos de autor de terceros por parte del Usuario con relación al uso del Software y el desarrollo de Software Derivado.  
+2.4 “Supporting and Usage Documentation” (the "Documentation"): refers to the information accompanying the Source and Object Code that enables a human to understand the objectives, architecture and programming language of the Software. 
 
-### 11.  Terminación de la Licencia
-El BID podrá terminar de manera inmediata esta Licencia, con causa o sin causa, sin dar aviso previo al Usuario. La terminación con causa aplica en caso de que el BID determine, a su entera discreción, que el uso del Software es inconsistente con los términos y condiciones de esta Licencia. 
+2.5 “Derivative Software”: derivative works of the Software, such as modifications, updates and upgrades thereof. 
 
-### 12.  Devolución del Sistema Informático 
-En caso de terminación de esta Licencia, indistintamente de la causa de terminación y conforme decida el BID, el Usuario deberá inmediatamente cesar el uso del Software y deberá destruir y/o devolver al BID cualesquiera programas, códigos, accesos, archivos o información, impresa y digital, que sean necesarios para que el BID tenga control sobre el Software, sin incluir medida de protección tecnológica alguna. En caso de que el Usuario haya desarrollado Software Derivado y el BID termine la Licencia, el Usuario deberá obtener autorización del BID, por escrito, para poder seguir usando el Software.
+2.6 “User”: any person, natural or legal, who obtains a copy of the Software. 
 
-### 13.  Ley Aplicable
-Esta Licencia estará sujeta a y será interpretada de conformidad con las leyes del Distrito de Columbia de los Estados Unidos de América, con excepción de sus disposiciones respecto a conflicto de leyes.
+### 3. IDB's Rights 
 
-### 14.  Privilegios e Inmunidades
-Ninguna cláusula de esta Licencia podrá ser interpretada como un acto de renuncia por parte del BID o de sus funcionarios y empleados a los privilegios e inmunidades que le han sido concedidos como organización internacional pública por su Convenio Constitutivo, por el derecho internacional o por las leyes de cualquiera de sus países miembros.
+3.1 The IDB reserves all intellectual property rights, including without limitation copyrights, relating to or associated with the Software. 
 
-### 15.  Resolución de Disputas
-Las Partes se comprometen a resolver cualquier diferencia o disputa relacionada con esta Licencia de buena fe y mediante un arreglo amigable. Si al cabo de treinta (30) días calendario de la fecha en que una Parte le comunique a la otra Parte su disconformidad con una diferencia o disputa las Partes no han llegado a un acuerdo satisfactorio para ambas Partes, dicha diferencia o disputa será sometida a arbitraje de conformidad con las reglas de la American Arbitration Association. La determinación final le corresponderá a un único árbitro. El lugar del arbitraje será Washington, Distrito de Columbia, Estados Unidos de América. El idioma que se usará en el proceso de arbitraje será el inglés con traducción simultánea en cualquiera de los idiomas oficiales del BID, si el BID lo solicitara. Los gastos del arbitraje serán cubiertos por ambas Partes en igual proporción.
+3.2 The IDB expressly reserves the rights to assign, transfer and/or sub-license the Software and/or any of its components to third parties without prior notice. 
 
-### 16.  Relación entre las Partes
-Nada de lo contenido en esta Licencia se interpretará como el establecimiento o creación de una asociación ni relación empleador-empleado entre las Partes, las cuales en todo momento permanecerán como contratistas independientes.
+4. User's Rights on Derivative Software 
 
-### 17.  Divisibilidad
-Si cualquier cláusula de esta Licencia es considerada inválida o inexigible, dicha invalidez o inexigibilidad no afectará a la validez ni la exigibilidad de las demás cláusulas, y dicha cláusula inválida o inexigible se considerará eliminada de esta Licencia.
+The User who develops Derivative Software shall retain all intellectual property rights in such Derivative Software, including without limitation copyrights, related to or associated with the Derivative Software, provided that such Derivative Software and any future releases shall be subject to the same terms and conditions of this License. 
 
-### 18.  Validez de Obligaciones 
-En caso de terminación de esta Licencia sobrevivirán los derechos y las obligaciones previstas en las cláusulas Nos. 3, 7, 8, 9, 10, 13, 14, 15 y 19.
+### 5. Restrictions 
 
-### 19.  Notificaciones
-Cualquier notificación que se requiera en el marco de esta Licencia se hará por escrito al BID a la siguiente cuenta de correo electrónico: code@iadb.org. El BID podrá modificar esta cláusula sin dar previo aviso al Usuario.
+5.1 The User is only authorized to make use of the Software as described in this License. 
 
-### 20.  Enmienda
-Esta Licencia sólo podrá ser modificada mediante autorización previa, expresa y por escrita del BID.
+5.2 Except for this License, the IDB does not grant any other license to the User with respect to any other information or works owned by the IDB or any copyrights, trademarks or any other intellectual property rights of the IDB. Any such further license must be in writing and signed by a duly authorized representative of the IDB for such purposes. 
 
-### 21.  Acuerdo Final
-Esta Licencia constituye el acuerdo final entre las Partes y reemplaza todas las comunicaciones, entendimientos o acuerdos, escritos o verbales, de carácter previo entre las Partes con relación al objeto de esta Licencia. 
+5.3 The License does not constitute a sale of the Software or any part or copy thereof. 
+
+5.4 The User may only authorize use of the Software by third parties in accordance with the provisions of this License, and in no event may third parties acquire more rights to the Software than those expressly granted by the IDB under this License. 
+
+### 6. Acknowledgment 
+
+6.1 The User agrees to the following statements and disclaimers, and shall maintain the following statements and disclaimers in the Software Documentation master file:  
+
+"Copyright © [year]. Inter-American Development Bank ("IDB"). Authorized Use. The procedures and results obtained based on the execution of this software are those programmed by the developers and do not necessarily reflect the views of the IDB, its Board of Executive Directors or the countries it represents." 
+
+6.1.1 For the Documentation, the User agrees to the following statements disclaimers, and shall maintain the following statements and disclaimers in the Software Documentation master file. Where the User is using a Multilateral Investment Fund (“IDB Lab”) Software or an Artificial Intelligence (“AI”)-powered Software, the disclaimers in Sections 6.1.2 and 6.1.3 below shall also apply:  
+
+"Copyright © [year]. Inter-American Development Bank ("IDB"). The Support and Usage Documentation is licensed under the Creative Commons License CC-BY 4.0 license. The opinions expressed in the Support and Usage Documentation are those of its authors and do not necessarily reflect the opinions of the IDB, its Board of Executive Directors, or the countries it represents.” 
+
+6.1.2 In the case of IDB Lab Software, the disclaimer shall be: 
+
+"The procedures and results obtained based on the execution of this software are those programmed by the developers and do not necessarily reflect the  views of the IDB, its Board of Executive Directors or the countries it represents, nor those of the IDB Lab Donors Committee or the countries it represents". 
+
+6.1.2.1 For the Documentation associated with IDB Lab Software, the disclaimer of the Documentation shall be: 
+
+"The opinions expressed in the Support and Usage Documentation are those of its authors and do not necessarily reflect the opinions of the IDB, its Board of Executive Directors, or the countries it represents, nor those of the IDB Lab Donors Committee or the countries it represents.” 
+
+6.1.3 Where the Software is, or incorporates, any AI-powered Software, the disclaimer shall include:  
+
+“The Software may include features which use, are powered by, or are an artificial intelligence system (“AI-Powered Services”), and as a result, the services provided via the Software may not be completely error-free or up to date. Additionally, the User acknowledges that due to the incorporation of AI-Powered Services in the Software, the Software may not dynamically (in “real time”) retrieve information and that, consequently, the output provided to the User may not account for events, updates, or other facts that have occurred or become available after the Software was trained. Accordingly, the User acknowledges that the use of the Software, and that any actions taken or reliance on such products, are at the User’s own risk, and the User acknowledges that the User must independently verify any information provided by the Software”. 
+
+### 7. IDB Name and Logo 
+
+Other than as expressly permitted in this License, the User may not use the IDB's name and/or logo for any purpose other than with the IDB’s prior consent in each instance, nor may the User make any promises, commitments, obligations or warranties of any kind on behalf of the IDB. 
+
+### 8. Representations and Warranties 
+
+8.1 The IDB grants this License without express or implied warranty of any kind, objective or subjective, in contract or tort, including, but not limited to, warranties of merchantability, fitness, suitability, compliance with standards or requirements, or fitness for a particular purpose. 
+
+8.2 The IDB does not warrant that the operation of the Software will be uninterrupted or error free and assumes no obligation to update, correct or improve the Software. 
+
+8.3 The User assumes sole risk for its use, and shall so inform third parties when using, distributing or making the Software available to third parties. 
+
+8.4 The User also represents and warrants that it will not use the Software in a way that compromises the safety of others including but not limited to use that is not in compliance with applicable laws. 
+
+### 9. Disclaimer and Limitation of Liability 
+
+9.1 The IDB shall not be liable, under any circumstances, for damages or compensation, moral or patrimonial; direct or indirect; incidental or special; or by way of consequence, foreseen or unforeseen, which may arise: 
+
+9.1.1 Under any theory of liability, whether in contract, infringement of intellectual property rights, negligence or under any other theory; and/or 
+
+9.1.2 From use of the Software, including but not limited to potential defects in the Software, or loss or inaccuracy of data of any kind. The foregoing includes expenses or damages associated with communication failures and/or computer malfunctions in connection with the use of the Software. 
+
+9.2 Certain services, materials, datasets, features, or components made available via the Software are delivered by third-party providers or derived from materials provided by third-party providers (together, the “Third-Party Materials”). By using the Software, the User acknowledges and consents that the IDB may share information and data with applicable third-party providers as may be required to enable and make available the Third-Party Materials via the Software. Further, the IDB EXPRESSLY DISCLAIMS RESPONSIBILITY AND LIABILITY FOR ANY SUCH THIRD-PARTY MATERIALS SET FORTH, DESCRIBED ON, OR ACCESSED THROUGH THE SOFTWARE, AND THE USER AGREES THAT THE IDB SHALL NOT BE RESPONSIBLE FOR ANY LOSS OR DAMAGE INCURRED AS A RESULT OF ANY DEALINGS BETWEEN THE USER AND A THIRD-PARTY PROVIDER, WHETHER OR NOT FACILITATED BY OR MADE IN CONNECTION WITH THE SOFTWARE. 
+
+Additional terms and conditions may also apply to specific portions or features of the Software, including without limitation the terms governing any Third-Party Materials. The User hereby agrees that: (a) this License operates in addition to any terms of use imposed or required by any such third-party provider; and (b) the terms of this License supplement and do not alter or amend any such third-party terms of use. 
+
+### 10. Indemnification 
+
+10.1 The User agrees to release, defend and indemnify the IDB, its staff and consultants, as applicable, from any and all claims, complaints, actions, losses, demands, liabilities, obligations, damages, costs, including without limitation, attorneys' fees, which may be brought against the IDB, its staff and/or consultants by reason of: 
+
+10.1.1 The exercise of the rights granted by the IDB under this License. 
+
+10.1.2 User's failure to comply with the terms and conditions of this License or with applicable laws. 
+
+10.1.3 Infringement of third party copyrights by the User in connection with the use of the Software and the development of Derivative Software. 
+
+10.2 Upon the IDB’s receipt of an indemnifiable claim, the IDB will notify the User in writing, provided that any failure by the IDB to so notify shall not relieve the User of any of its indemnification obligations hereunder. The User will assume the defense of any such indemnifiable claim at its own cost and expense, and the IDB will reasonably assist. The User must obtain the prior written approval of the IDB prior to entering into any settlement of any indemnifiable claim hereunder which involves the admission of any guilt, liability, or wrongdoing on behalf of the IDB. Notwithstanding the foregoing, the IDB (or its indemnitee, as applicable) may at any time participate in the defense of any indemnifiable claim at its own cost and expense upon written notice to the User. 
+
+### 11. Termination of License 
+
+In the event that the IDB determines, in its sole discretion, that use of the Software is inconsistent with the terms and conditions of this License, the IDB may immediately terminate this License, with notice to User. 
+
+### 12. Return of Computer System. 
+
+In the event of termination of this License, at the IDB's option, User shall immediately cease use of the Software and shall destroy and/or return to the IDB any programs, codes, access, files or information, printed and digital, that are necessary for the IDB to have control over the Software, not including any technological protection measures. In the event that User has developed Derivative Software and the IDB terminates the License, User must obtain the IDB's written authorization to continue using the Software. 
+
+### 13. Governing Law 
+
+This License shall be subject to and construed in accordance with the laws of the District of Columbia, United States of America, except for its conflict of law provisions. 
+
+### 14. Privileges and Immunities 
+
+Nothing in this License shall be construed as a waiver by the IDB or its officers and employees of the privileges and immunities granted to it as a public international organization by the Agreement Establishing the Inter-American Development Bank, by international law or by the laws of any of its member countries. 
+
+### 15. Resolution of Disputes 
+
+The parties undertake to resolve any difference or dispute related to this License in good faith and by means of an amicable settlement. Within thirty (30) calendar days of the date on which a party notifies the other party of its disagreement with a difference or dispute, the parties agree to cooperate in attempting to settle the dispute in good faith and by amicable settlement. If after thirty (30) calendar days from the date a party notifies the other party of its disagreement with a difference or dispute the parties have not reached an agreement satisfactory to both parties, such difference or dispute shall be submitted to arbitration in accordance with the rules of the American Arbitration Association. The final determination shall be made by a single arbitrator. The place of arbitration shall be Washington, District of Columbia, United States of America. The language to be used in the arbitration proceedings shall be English with simultaneous translation into any of the official languages of the IDB, if requested by the IDB. The costs of the arbitration shall be borne equally by both parties. 
+
+### 16. Relationship between the Parties 
+
+Nothing contained in this License shall be construed as establishing or creating a partnership or employer-employee relationship between the parties, which shall at all times remain independent contractors. 
+
+### 17. Severability 
+
+If any provision of this License is held to be invalid or unenforceable, such invalidity or unenforceability shall not affect the validity and enforceability of the remaining provisions, and such invalid or unenforceable provision shall be deemed severed from this License. 
+
+### 18. Validity of Obligations 
+
+In the event of termination of this License, the rights and obligations set forth in clauses Nos. 3, 7, 8, 9, 10, 13, 14, 15 and 19 shall survive. 
+
+### 19. Notices 
+
+Any notice required under this License shall be made in writing to the IDB at the following e-mail address: code@iadb.org. The IDB may amend this clause without notice to User. 
+
+### 20. Amendment 
+
+This License may be amended only with the prior express written consent of the IDB. 
+
+### 21. Final Agreement 
+
+This License constitutes the final agreement between the parties and supersedes all prior communications, understandings or agreements, written or oral, between the parties relating to the subject matter of this License. 
+
+ 
+ 
+
+ 
+
+ 
